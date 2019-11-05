@@ -1,0 +1,187 @@
+.bodyclass {
+    background-color: #00A84B;
+}
+.icons {
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+.icone {
+    padding-top: 40px;
+
+}
+.icone2 {
+    padding-top: 25px;
+}
+
+
+
+.menu_inicial {
+    padding-top: 25px;
+}
+.title {
+    color: #FFFFFF;
+}
+.title3 {
+    color: #FFFFFF;
+    padding-top: 20px;
+    text-align: center;
+}
+.title2 {
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.lista {
+    background-color: #00A84B;
+}
+.links {
+    color: #000000;
+}
+.links2 {
+    color: #FFFFFF;
+}
+.links:hover {
+    font-style: normal;
+    text-decoration: none;
+}
+.lista:hover {
+    background-color: #009341;
+}
+.menu_inicial1 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.nav1 {
+    background-color: #00612B;
+}
+.titleport {
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.linkport:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.linkport {
+    color: #FFFFFF;
+}
+
+
+.teste {
+    padding-top: 935px;
+}
+.mhdx {
+    color: #FFFFFF;
+}
+.espaco {
+    height: 130px;
+}
+
+.titport {
+    color: #FFFFFF;
+    background-color: #00612B;
+    text-align: center;
+    border-color: #00612B;
+}
+
+.titserie {
+    background-color: #00612B;
+    text-align: center;
+    margin-left: 30px;
+}
+.linha1 {
+    background-color: #06833D;
+    text-align: center;
+}
+.botdvr {
+    background-color: #06833D;
+    font-weight: bolder;
+    font-size: large;
+    border-style: hidden;
+    border-radius: 5px;
+}
+.botdvr:hover {
+    background-color: #00612B;
+    border-style: hidden;
+    border-radius: 5px;
+}
+.titdvr {
+
+
+}
+.nav2 {
+    background-color: #00612B;
+}
+.linhas {
+    background-color: #06833D;
+    color: #FFFFFF;
+    padding-left: 50px;
+}
+.mais {
+    margin-top: 15px;
+
+}
+.mais2 {
+    margin-top: 29px;
+}
+.lista2 {
+
+}
+.vhdbox {
+    border: 2px solid #06833D;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #00A84B;
+}
+.geracaotitle {
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.vhdbox2 {
+    border: 2px solid #06833D;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.foot {
+    background-color: #009341;
+}
+.foot1 {
+    margin-top: 500px;
+
+}
+.espacoindex{
+    margin-top: 50px;
+}
+.espacotools{
+    margin-top: 290px;
+}
+
+.links2:hover {
+    font-style: normal;
+    text-decoration: none;
+}
+.naveg {
+    background-color: #009341;
+}
+.lab {
+    margin-top: 9px;
+}
+.tool {
+    padding-top: 14px;
+}
+.icon {
+    padding-top: 8px;
+    padding-bottom: 4px;
+}
+.vhdbox2 {
+    background-color: #079F4A;
+}
